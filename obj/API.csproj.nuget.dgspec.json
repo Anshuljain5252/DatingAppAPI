@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\api\\api\\API.csproj": {}
+    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\api\\api\\API.csproj": {
+    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\api\\api\\API.csproj",
+        "projectUniqueName": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\api\\api\\API.csproj",
+        "projectPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\api\\api\\obj\\",
+        "outputPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,6 +53,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -69,9 +73,17 @@
               "target": "Package",
               "version": "[8.0.11, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.2, )"
             }
           },
           "imports": [
