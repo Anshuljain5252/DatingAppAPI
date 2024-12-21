@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj": {}
+    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj": {
+    "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj",
+        "projectUniqueName": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj",
+        "projectPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\api\\API.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\obj\\",
+        "outputPath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

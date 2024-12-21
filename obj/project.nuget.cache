@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PZsSOEiTpZg=",
+  "dgSpecHash": "XcwuwxbicIU=",
   "success": true,
-  "projectFilePath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\API\\API.csproj",
+  "projectFilePath": "D:\\Anshul\\Build an app with ASPNET Core and Angular from scratch\\API\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.4\\microsoft.aspnetcore.authentication.jwtbearer.8.0.4.nupkg.sha512",
